@@ -1,0 +1,12 @@
+C:\Users\PNA\Desktop\C# Projects\GradeBook\bin\Debug\GradeBook.exe.config
+C:\Users\PNA\Desktop\C# Projects\GradeBook\bin\Debug\GradeBook.exe
+C:\Users\PNA\Desktop\C# Projects\GradeBook\bin\Debug\GradeBook.pdb
+C:\Users\PNA\Desktop\C# Projects\GradeBook\obj\Debug\GradeBook.csprojAssemblyReference.cache
+C:\Users\PNA\Desktop\C# Projects\GradeBook\obj\Debug\GradeBook.exe
+C:\Users\PNA\Desktop\C# Projects\GradeBook\obj\Debug\GradeBook.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\GradeBook\obj\Debug\GradeBook.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\GradeBook\obj\Debug\GradeBook.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\GradeBook\obj\Debug\GradeBook.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\GradeBook\bin\Debug\GradeBook.exe.config
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\GradeBook\bin\Debug\GradeBook.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\GradeBook\bin\Debug\GradeBook.pdb
